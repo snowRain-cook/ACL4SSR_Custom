@@ -3,7 +3,6 @@
 # MyList
 
 # 域名匹配
-DOMAIN,i.ibb.co
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
